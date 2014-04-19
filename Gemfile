@@ -5,7 +5,11 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.0'
 # Use sqlite3 as the database for Active Record -changed in Mac and nows
 gem 'sqlite3', '1.3.7'
+<<<<<<< HEAD
 #change from ws
+=======
+#this is from macs
+>>>>>>> 3d50778bac827cb479d1f7d983d2bfaad98aa346
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
