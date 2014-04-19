@@ -1,0 +1,173 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: MyString
+  warehouse: MyString
+  channel: MyString
+  building: MyString
+  type: 
+  purchase_order_nbr: MyString
+  shipment_nbr: MyString
+  source: MyString
+  source_comment: MyString
+  appointment_nbr: MyString
+  hot_item_po: MyString
+  ship_form: MyString
+  ship_to: MyString
+  vendor_nbr: MyString
+  vendor_factory: MyString
+  coo: MyString
+  track_lotcontrol: MyString
+  track_serial_nbr: MyString
+  track_coo: MyString
+  trailor_type: MyString
+  ship_via: MyString
+  manifest_nbr: MyString
+  bol: MyString
+  seal_nbr: MyString
+  scac_code: MyString
+  order_nbr: MyString
+  order_type: MyString
+  buyer_id: MyString
+  buyer_name: MyString
+  department: MyString
+  buyer_email_id: MyString
+  vendor_contact: MyString
+  vendor_name: MyString
+  phone: MyString
+  vendor_email_id: MyString
+  fax_nbr: MyString
+  total_units: 1
+  total_weight: 1
+  total_volume: 1
+  carier_charges: 1
+  carierformats: MyString
+  cases_ordered: 1
+  unit_ordered: 1
+  cases_rcvd: 1
+  units_rcvd: 1
+  po_created_date: 2014-04-18 23:22:36
+  pocreated_by: MyString
+  po_last_modified_date: 2014-04-18 23:22:36
+  po_last_modified_by: MyString
+  po_downloaded_date: 2014-04-18 23:22:36
+  po_downloaded_by: MyString
+  po_cancelled_date: 2014-04-18 23:22:36
+  po_cancelled_by: MyString
+  auto_cancel_po: MyString
+  cancel_bydate: 2014-04-18 23:22:36
+  cancel_after_days: 1
+  po_ship_date: 2014-04-18 23:22:36
+  mode_of_transport: MyString
+  receiving_started_date: 2014-04-18 23:22:36
+  receiving_started_by: MyString
+  door_door: MyString
+  area: MyString
+  receiving_ended_date: 2014-04-18 23:22:36
+  receiving_ended_by: MyString
+  first_recieving_date: 2014-04-18 23:22:36
+  first_recieving_by: MyString
+  first_recieve_dock_door: MyString
+  area: MyString
+  shipment_verified: MyString
+  shipment_verified_date: 2014-04-18 23:22:36
+  shipment_verified_by: MyString
+  comments: MyString
+  hold_inventory: MyString
+  hold_code: MyString
+  alert_buyer: MyString
+  override_qa_plan: MyString
+  overided_plan: MyString
+  record_status: MyString
+  created_date: 2014-04-18 23:22:36
+  created_user: MyString
+  created_prc: MyString
+  update_date: 2014-04-18 23:22:36
+  updated_user: MyString
+  updated_prc: MyString
+
+two:
+  client: MyString
+  warehouse: MyString
+  channel: MyString
+  building: MyString
+  type: 
+  purchase_order_nbr: MyString
+  shipment_nbr: MyString
+  source: MyString
+  source_comment: MyString
+  appointment_nbr: MyString
+  hot_item_po: MyString
+  ship_form: MyString
+  ship_to: MyString
+  vendor_nbr: MyString
+  vendor_factory: MyString
+  coo: MyString
+  track_lotcontrol: MyString
+  track_serial_nbr: MyString
+  track_coo: MyString
+  trailor_type: MyString
+  ship_via: MyString
+  manifest_nbr: MyString
+  bol: MyString
+  seal_nbr: MyString
+  scac_code: MyString
+  order_nbr: MyString
+  order_type: MyString
+  buyer_id: MyString
+  buyer_name: MyString
+  department: MyString
+  buyer_email_id: MyString
+  vendor_contact: MyString
+  vendor_name: MyString
+  phone: MyString
+  vendor_email_id: MyString
+  fax_nbr: MyString
+  total_units: 1
+  total_weight: 1
+  total_volume: 1
+  carier_charges: 1
+  carierformats: MyString
+  cases_ordered: 1
+  unit_ordered: 1
+  cases_rcvd: 1
+  units_rcvd: 1
+  po_created_date: 2014-04-18 23:22:36
+  pocreated_by: MyString
+  po_last_modified_date: 2014-04-18 23:22:36
+  po_last_modified_by: MyString
+  po_downloaded_date: 2014-04-18 23:22:36
+  po_downloaded_by: MyString
+  po_cancelled_date: 2014-04-18 23:22:36
+  po_cancelled_by: MyString
+  auto_cancel_po: MyString
+  cancel_bydate: 2014-04-18 23:22:36
+  cancel_after_days: 1
+  po_ship_date: 2014-04-18 23:22:36
+  mode_of_transport: MyString
+  receiving_started_date: 2014-04-18 23:22:36
+  receiving_started_by: MyString
+  door_door: MyString
+  area: MyString
+  receiving_ended_date: 2014-04-18 23:22:36
+  receiving_ended_by: MyString
+  first_recieving_date: 2014-04-18 23:22:36
+  first_recieving_by: MyString
+  first_recieve_dock_door: MyString
+  area: MyString
+  shipment_verified: MyString
+  shipment_verified_date: 2014-04-18 23:22:36
+  shipment_verified_by: MyString
+  comments: MyString
+  hold_inventory: MyString
+  hold_code: MyString
+  alert_buyer: MyString
+  override_qa_plan: MyString
+  overided_plan: MyString
+  record_status: MyString
+  created_date: 2014-04-18 23:22:36
+  created_user: MyString
+  created_prc: MyString
+  update_date: 2014-04-18 23:22:36
+  updated_user: MyString
+  updated_prc: MyString
