@@ -7,6 +7,7 @@ gem 'rails', '4.1.0'
 gem 'sqlite3', '1.3.7'
 #change from ws
 #this is from macs
+#this is second mac
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
